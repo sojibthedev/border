@@ -8,7 +8,7 @@ body {
     position: absolute;
     width: 185px;
     height: 20px;
-    background-color: red;
+background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
     border-radius: 25px;
     animation: move-around 5s infinite;
     text-align: center;
